@@ -13,7 +13,7 @@
 
 ---
 
-##  🎉 **Desafio 2**
+##  🎉 **Desafio 2 - CORRIJA OS ERROS DO PROJETO**
 
 ⚠️ Passos:
 
